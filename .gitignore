@@ -12,3 +12,5 @@
 _build/
 *.merlin
 *.install
+_esy
+node_modules
